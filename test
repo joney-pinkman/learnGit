@@ -3,3 +3,5 @@ git checkout -- test
 new change1
 
 local change1
+
+add branch_a line
